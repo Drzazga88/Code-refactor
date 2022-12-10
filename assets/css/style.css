@@ -121,7 +121,7 @@ aside {
   max-width: 150px;
 }
 
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -129,6 +129,6 @@ aside {
   text-align: center;
 }
 
-.footer h2 {
+footer h4 {
   font-size: 20px;
 }
